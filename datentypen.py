@@ -18,7 +18,6 @@ print(type(x))
 
 # Boolsche Werte
 
-print("")
 wert1 = 10
 wert2 = 23
 if (wert1 > wert2):
